@@ -48,11 +48,11 @@ Med en klick på google hittade jag en samlings-site för annonslad i Sverige.
 [Alla Annonsblad](http://www.allaannonsblad.se/) 
 Ex. på liknande företag:
 Veckobladet i värmland ca 13600 utgivningar. 
-[Veckoblader](http://www.veckobladet.se/)
+[Veckobladet](http://www.veckobladet.se/)
 Annonsbladet i Dalarna – mellan 13000-29000 utgivningar per kommun. [Annonsbladet i Dalarna](http://www.annonsbladet.com/) 
 
 
 ## Tidsplanering
-![alt text](https://github.com/mn22nw/ProjektskelettHT13/blob/master/images/tidsplan.jpg "Tidsplanering")
-[Länk till pdf](../blob/master/doc/tidsplan.pdf)
+![alt text](https://raw.github.com/mn22nw/ProjektskelettHT13/master/images/tidsplan.jpg "Tidsplanering")
+[Länk till pdf](../doc/tidsplan.pdf)
 
