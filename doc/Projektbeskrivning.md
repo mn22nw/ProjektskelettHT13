@@ -2,6 +2,7 @@
 # Webbplats Bergslagsklippet
 Projektmedlemmar: 
 [mn22nw](https://github.com/mn22nw/)
+Namn:Maria Nygren.  Personnummer:1988-07-11-6705
 
 [Körbar version av projektet](http://mn22nw.github.io/PROJEKT)   
 
@@ -37,7 +38,6 @@ som är döpt till kontakt.
 6. Formulär (kommer inte presentera detta på den riktiga siten, men eftersom det är ett krav för
 uppgiften kommer jag göra ett statiskt formulär)
 7. Ska kunna anpassas till mobila enheter såsom ipad och iphone. (vilket den i nuläget inte gör).  
-Namn:Maria Nygren.  Personnummer:1988-07-11-670
 
 ## Begränsningar
 Jag kommer inte kunna göra ett fungerande formulär eftersom jag inte vet hur man gör. 
