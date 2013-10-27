@@ -1,11 +1,9 @@
 
 # Webbplats Bergslagsklippet
 Projektmedlemmar: 
-[tstjostudent](https://github.com/tstjostudent), [xx222yy](https://github.com/tstjostudent), [yy222xx](https://github.com/tstjostudent)
+[mn22nw](https://github.com/mn22nw/)
 
-*Lista alla medlemmar ovan. Ni behöver inte ange fullständiga namn utan länk till GitHub-konto räcker.*
-
-[Körbar version av projektet](http://tstjostudent.github.io/Projektet)
+[Körbar version av projektet](http://mn22nw.github.io/PROJEKT)   
 
 *Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
 
@@ -58,4 +56,5 @@ Annonsbladet i Dalarna – mellan 13000-29000 utgivningar per kommun. [Annonsbla
 
 ## Tidsplanering
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Tidsplanering")
+[Länk till pdf](/Projektbeskrivning.pdf)
 
