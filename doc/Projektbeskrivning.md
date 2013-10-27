@@ -5,8 +5,6 @@ Projektmedlemmar:
 
 [Körbar version av projektet](http://mn22nw.github.io/PROJEKT)   
 
-*Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
-
 ## Beskrivning av projektet
 Jag kommer att skapa en webbplats för BergslagsKlippet. 
 Det är ett företag som jag själv är deltidsanställd på. (Det är bara min chef och jag som jobbar på
@@ -55,6 +53,6 @@ Annonsbladet i Dalarna – mellan 13000-29000 utgivningar per kommun. [Annonsbla
 
 
 ## Tidsplanering
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Tidsplanering")
-[Länk till pdf](/Projektbeskrivning.pdf)
+![alt text](https://github.com/mn22nw/ProjektskelettHT13/blob/master/images/tidsplan.jpg "Tidsplanering")
+[Länk till pdf](../blob/master/doc/tidsplan.pdf)
 
